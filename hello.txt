@@ -1,0 +1,1 @@
+has been created from command substitution today
